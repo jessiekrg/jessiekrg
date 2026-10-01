@@ -1,4 +1,3 @@
-# G6K
 
 <h1 align="center">Jessica</h1>
 
