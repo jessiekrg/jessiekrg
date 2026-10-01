@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:FF69B4&height=180&section=header&text=Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatique%20%26%20Sciences%20du%20vivant&descSize=18&descAlignY=58" alt="Bannière"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFC1E3,100:FF69B4&height=180&text=Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatique%20%26%20Sciences%20du%20vivant&descSize=18&descAlignY=58" alt="Bannière"/>
 </p>
 
 <p align="center">
@@ -77,5 +77,5 @@ Application de l'algorithme de Louvain pour repérer des groupes de nœuds forte
 [LinkedIn](lien)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFC1E3&height=100&section=footer" alt="Pied de page"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FF69B4,100:FFC1E3&height=100" alt="Pied de page"/>
 </p>
