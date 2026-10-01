@@ -67,7 +67,7 @@ Application de l'algorithme de Louvain pour repérer des groupes de nœuds forte
 ## 📊 Mes stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&hide_border=false&title_color=FF69B4&icon_color=FF8FB8&text_color=7A4A5E&bg_color=FFF0F6&border_color=FFC1E3" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jessiekrg&show_icons=true&hide_border=false&title_color=FF69B4&icon_color=FF8FB8&text_color=7A4A5E&bg_color=FFF0F6&border_color=FFC1E3" alt="Stats"/>
 </p>
 
 > 💌 « Comprendre la donnée avant de la traiter. »
