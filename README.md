@@ -4,10 +4,6 @@
 
 <p align="center">🌸 ✦ 🎀 ✦ 🌸 ✦ 🎀 ✦ 🌸</p>
 
-## 🎀 Ce que je recherche
-
-Un **[stage / une alternance / un poste]** dans les **systèmes d'information de santé**, à l'intersection des données, des réseaux et de la cybersécurité.
-
 ## 💖 Mon atout
 
 Une double compétence : comprendre les données du vivant autant que les outils qui les traitent.
