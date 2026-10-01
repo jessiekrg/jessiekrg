@@ -40,11 +40,7 @@ Une double compétence : comprendre les données du vivant autant que les outils
 | 🛡️ Initiation à la cybersécurité | 🌸 En cours |
 | 🏗️ Infrastructure as code | 🤍 À venir |
 
-## 📌 Projets
 
-**🕸️ Détection de communautés dans un graphe**
-Application de l'algorithme de Louvain pour repérer des groupes de nœuds fortement connectés.
-`Python` · [voir le dépôt](lien)
 
 
 ## 📊 Mes stats
