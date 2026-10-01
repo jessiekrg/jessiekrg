@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=0:FFC1E3,100:FF69B4&height=180&text=Jessica&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatique%20%26%20Sciences%20du%20vivant&descSize=18&descAlignY=58" alt="Bannière"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=520&lines=%F0%9F%8C%B8+Syst%C3%A8mes+d'information+de+sant%C3%A9;%F0%9F%8E%80+Cybers%C3%A9curit%C3%A9+%C2%B7+R%C3%A9seaux+%C2%B7+Cloud;%E2%9C%A8+Toujours+en+train+d'apprendre" alt="Texte animé"/>
 </p>
 
@@ -75,7 +71,3 @@ Application de l'algorithme de Louvain pour repérer des groupes de nœuds forte
 ## 📫 Contact
 
 [LinkedIn](lien)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:FF69B4,100:FFC1E3&height=100" alt="Pied de page"/>
-</p>
