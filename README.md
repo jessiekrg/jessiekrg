@@ -35,7 +35,6 @@ Une double compétence : comprendre les données du vivant autant que les outils
 ![Power BI](https://img.shields.io/badge/-Power%20BI-EC407A?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-FF80AB?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Notions** : théorie des graphes · réseaux (OSI, TCP/IP, DNS, DHCP)
 
 ## 🌱 En apprentissage
 
@@ -51,14 +50,6 @@ Une double compétence : comprendre les données du vivant autant que les outils
 Application de l'algorithme de Louvain pour repérer des groupes de nœuds fortement connectés.
 `Python` · [voir le dépôt](lien)
 
-## 🧭 Feuille de route
-
-- [x] Bases de Python, SQL et PL/SQL
-- [x] Analyse de graphes (Louvain)
-- [ ] Initiation à la cybersécurité
-- [ ] Cloud computing
-- [ ] Un projet de bout en bout sur des données de santé fictives
-- [ ] Une première certification
 
 ## 📊 Mes stats
 
@@ -66,8 +57,4 @@ Application de l'algorithme de Louvain pour repérer des groupes de nœuds forte
   <img src="https://github-readme-stats.vercel.app/api?username=Jessiekrg&show_icons=true&hide_border=false&title_color=FF69B4&icon_color=FF8FB8&text_color=7A4A5E&bg_color=FFF0F6&border_color=FFC1E3" alt="Stats"/>
 </p>
 
-> 💌 « Comprendre la donnée avant de la traiter. »
 
-## 📫 Contact
-
-[LinkedIn](lien)
