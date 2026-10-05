@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=520&lines=%F0%9F%8C%B8+Syst%C3%A8mes+d'information+de+sant%C3%A9;%F0%9F%8E%80+Cybers%C3%A9curit%C3%A9+%C2%B7+R%C3%A9seaux+%C2%B7+Cloud;%E2%9C%A8+Toujours+en+train+d'apprendre" alt="Texte animé"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=520&lines=Jessica+%E2%80%94+%C3%89tudiante+en+cybers%C3%A9curit%C3%A9;Int%C3%A9ress%C3%A9e+par+la+tech+et+la+s%C3%A9curit%C3%A9" alt="Texte animé"/>
 </p>
 
 <p align="center">🌸 ✦ 🎀 ✦ 🌸 ✦ 🎀 ✦ 🌸</p>
